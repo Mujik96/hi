@@ -1,14 +1,28 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
-    <title>Мое портфолио — Книга о библиотеке</title>
-  </head>
-  <body>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap');
 
-  </body>
-</html>
-/*Логические операции
-console. log (2 == 2 && 'car == 'car')
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.romantic {
+  float: left;
+  width: 478px;
+  margin-right: 30px;
+  border: 2px solid #e400a2;
+}
+
+ul {
+  list-style: armenian;
+}
+
+h2 {
+  color: #e400a1
+}
+
+section {
+  margin-top: 50px;
+}
+
+.Eblya {
+  color: #e400a7;
+}
